@@ -5,7 +5,7 @@
 ![Security+](https://img.shields.io/badge/Cert-CompTIA%20Security%2B-red)![CCNA](https://img.shields.io/badge/Cert-Cisco%20CCNA-lightblue)![Network+](https://img.shields.io/badge/Cert-CompTIA%20Network%2B-red)![CySA+](https://img.shields.io/badge/Cert-CompTIA%20CySA%2B%20In%20Progress-orange)
 ![NIST 800-53](https://img.shields.io/badge/Framework-NIST-red)![Threat Hunting](https://img.shields.io/badge/Security-Threat%20Hunting-blue)![Vulnerability Management](https://img.shields.io/badge/Security-Vulnerability%20Management-blue)![Incident Response](https://img.shields.io/badge/Security-Incident%20Response-blue)
 
-Security Analyst and cybersecurity student focused on networking and security, defensive monitoring, security automation, and secure infrastructure. Hands-on experience with enterprise networking, IDS monitoring, VPN technologies, authentication security, and cybersecurity tooling. Seeking security analyst, network security, security engineering, and GovTech roles in federal civilian, DoD, and private sector environments. 
+Security Analyst and computer science student focused on networking and security, defensive monitoring, security automation, and secure infrastructure. Hands-on experience with enterprise networking, IDS monitoring, VPN technologies, authentication security, and cybersecurity tooling. Seeking security analyst, network security, security engineering, and GovTech roles in federal civilian, DoD, and private sector environments. 
 
 - B.S. Computer Science  — Concentration in Cybersecurity
 - 3.84 GPA — Dean's List
