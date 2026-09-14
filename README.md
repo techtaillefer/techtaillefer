@@ -10,7 +10,7 @@ Security Analyst and computer science student focused on networking and security
 - B.S. Computer Science  — Concentration in Cybersecurity
 - 3.84 GPA — Dean's List
 - Hack@UCF Club Member
-- CCDC Candidate
+- C3 Team Candidate
 
 ---
 
