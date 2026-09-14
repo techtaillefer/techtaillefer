@@ -39,42 +39,152 @@ Full-stack contact management web application built on the LAMP stack with HTML/
 ---
 
 
-###  Skills, Tools, and Frameworks
+##  Skills, Tools, and Frameworks
 
 
-**Network and Security Tools**
+### Network and Security Tools
 
-![Splunk](https://img.shields.io/badge/Tool-Splunk-black) ![ArcSight](https://img.shields.io/badge/Tool-ArcSight%20SIEM%2FLogger-blue) ![SentinelOne](https://img.shields.io/badge/Tool-SentinelOne-purple) ![Palo Alto Panorama](https://img.shields.io/badge/Tool-Palo%20Alto%20Panorama-orange) ![Microsoft Defender](https://img.shields.io/badge/Tool-Microsoft%20Defender-blue) ![Arbor](https://img.shields.io/badge/Tool-Arbor-blue) ![Infoblox](https://img.shields.io/badge/Tool-Infoblox%2FIPAM-blue) ![DX Spectrum](https://img.shields.io/badge/Tool-DX%20Spectrum-blue)
+<table>
+<tr>
+<td valign="top">
 
-![Cisco ISE](https://img.shields.io/badge/Tool-Cisco%20ISE-blue) ![ServiceNow](https://img.shields.io/badge/Tool-ServiceNow-green) ![Cisco Firepower](https://img.shields.io/badge/Tool-Cisco%20Firepower-blue) ![SysInternals](https://img.shields.io/badge/Tool-SysInternals-black) ![Tenable](https://img.shields.io/badge/Tool-Tenable.sc-purple) ![Nessus](https://img.shields.io/badge/Tool-Nessus-purple) ![Lansweeper](https://img.shields.io/badge/Tool-Lansweeper-orange) ![Wireshark](https://img.shields.io/badge/Tool-Wireshark-blue) ![F5](https://img.shields.io/badge/Tool-F5-red) ![Microsoft Sentinel](https://img.shields.io/badge/Tool-Microsoft%20Sentinel-blue)
+- Splunk
+- ArcSight SIEM/Logger
+- SentinelOne
+- Palo Alto Panorama
+- Microsoft Defender
+- Arbor
 
+</td>
+<td valign="top">
 
-**Identity & Access Management**
+- Infoblox/IPAM
+- DX Spectrum
+- Cisco ISE
+- ServiceNow
+- Cisco Firepower
+- SysInternals
 
-![Active Directory](https://img.shields.io/badge/IAM-Active%20Directory-blue) ![Entra ID](https://img.shields.io/badge/IAM-Microsoft%20Entra%20ID-blue) ![ADManager](https://img.shields.io/badge/IAM-ADManager-green) ![ADAudit](https://img.shields.io/badge/IAM-ADAudit-green) ![RSA Security](https://img.shields.io/badge/IAM-RSA%20Security-red) ![TACACS+](https://img.shields.io/badge/IAM-TACACS%2B-blue)
+</td>
+<td valign="top">
 
+- Tenable.sc
+- Nessus
+- Lansweeper
+- Wireshark
+- F5
+- Microsoft Sentinel
 
-**Development & Administration Tools**
+</td>
+</tr>
+</table>
 
-![VS Code](https://img.shields.io/badge/Tool-VS%20Code-blue) ![Git](https://img.shields.io/badge/Tool-Git-orange) ![GitHub](https://img.shields.io/badge/Tool-GitHub-black) ![MobaXterm](https://img.shields.io/badge/Tool-MobaXterm-blue) ![PuTTY](https://img.shields.io/badge/Tool-PuTTY-blue)
+### Identity & Access Management
 
+<table>
+<tr>
+<td valign="top">
 
-**Compliance & Risk Management**
+- Active Directory
+- Microsoft Entra ID
+- ADManager
 
-![NIST 800-53](https://img.shields.io/badge/Framework-NIST%20SP%20800--53-red)![NIST 800-37](https://img.shields.io/badge/Framework-NIST%20SP%20800--37-red)![NIST RMF](https://img.shields.io/badge/Framework-NIST%20RMF-red)![NIST CSF 2.0](https://img.shields.io/badge/Framework-NIST%20CSF%202.0-red)![NIST 800-61](https://img.shields.io/badge/Framework-NIST%20SP%20800--61-red)
+</td>
+<td valign="top">
 
+- ADAudit
+- RSA Security
+- TACACS+
 
-**Technical Skills**
+</td>
+</tr>
+</table>
 
-![Python](https://img.shields.io/badge/Code-Python-blue) ![C](https://img.shields.io/badge/Code-C-blue) ![Java](https://img.shields.io/badge/Code-Java-orange) ![HTML](https://img.shields.io/badge/Code-HTML-orange) ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow) ![PHP](https://img.shields.io/badge/Code-PHP-purple) ![SQL](https://img.shields.io/badge/Code-SQL-blue) ![JSON](https://img.shields.io/badge/Code-JSON-black)
+### Development & Administration Tools
 
-![Bash](https://img.shields.io/badge/Scripting-Bash-black) ![PowerShell](https://img.shields.io/badge/Scripting-PowerShell-blue) ![Batch](https://img.shields.io/badge/Scripting-Batch-green)
+<table>
+<tr>
+<td valign="top">
 
-![Windows](https://img.shields.io/badge/OS-Windows-blue) ![Linux](https://img.shields.io/badge/OS-Linux-black) ![Kali Linux](https://img.shields.io/badge/OS-Kali%20Linux-blue) ![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-orange)
+- VS Code
+- Git
+- GitHub
 
-![Proxmox](https://img.shields.io/badge/Infrastructure-Proxmox-orange) ![Azure](https://img.shields.io/badge/Infrastructure-Microsoft%20Azure-blue) ![VMware](https://img.shields.io/badge/Infrastructure-VMware-blue) ![vSphere](https://img.shields.io/badge/Infrastructure-vSphere-blue)
+</td>
+<td valign="top">
 
-**General Cybersecurity Skills**
+- MobaXterm
+- PuTTY
+
+</td>
+</tr>
+</table>
+
+## Compliance & Risk Management
+
+<table>
+<tr>
+<td valign="top">
+
+- NIST SP 800-53
+- NIST SP 800-37
+- NIST RMF
+
+</td>
+<td valign="top">
+
+- NIST CSF 2.0
+- NIST SP 800-61
+
+</td>
+</tr>
+</table>
+
+### Technical Skills
+
+<table>
+<tr>
+<td valign="top">
+
+#### Programming & Markup
+
+- Python
+- C
+- Java
+- HTML
+- JavaScript
+- PHP
+- SQL
+- JSON
+
+</td>
+<td valign="top">
+
+#### Scripting & Operating Systems
+
+- Bash
+- PowerShell
+- Batch
+- Windows
+- Linux
+- Kali Linux
+- Ubuntu
+
+</td>
+<td valign="top">
+
+#### Infrastructure & Virtualization
+
+- Proxmox
+- Microsoft Azure
+- VMware
+- vSphere
+
+</td>
+</tr>
+</table>
+
+### Cybersecurity Expertise and Technologies
 
 $\color{#1E88E5}{\textsf{Threat Intelligence:}}$ ![CTI Analysis](https://img.shields.io/badge/CTI%20Analysis-0078D4?style=flat-square) ![Threat Actor Profiling](https://img.shields.io/badge/Threat%20Actor%20Profiling-0078D4?style=flat-square) ![OSINT](https://img.shields.io/badge/OSINT-0078D4?style=flat-square) ![IOC Analysis](https://img.shields.io/badge/IOC%20Analysis-0078D4?style=flat-square) ![ATT&CK TTP Mapping](https://img.shields.io/badge/ATT%26CK%20TTP%20Mapping-0078D4?style=flat-square) ![Diamond Model](https://img.shields.io/badge/Diamond%20Model-0078D4?style=flat-square) ![Cyber Kill Chain](https://img.shields.io/badge/Cyber%20Kill%20Chain-0078D4?style=flat-square) ![AbuseIPDB](https://img.shields.io/badge/AbuseIPDB-0078D4?style=flat-square)
 
