@@ -28,7 +28,7 @@ Security Analyst and computer science student focused on networking and security
 ## Featured Work
 
 [**Full-Stack Movie Recommendation Web Application**](https://github.com/TheKauanLima/COP4331LargeProject)  
-Full-stack UCF's COP4331 software engineering project built with MERN Stack --> React, TypeScript, Vite, Node.js, Express, and MongoDB. Implements JWT-based authentication, protected API routes with TMDB, email verification and password-reset workflows, user management/search functionality, and automated backend testing with Jest and Supertest.
+Full-stack UCF's COP4331 Agile-abided software engineering project built with MERN Stack --> React, TypeScript, Vite, Node.js, Express, and MongoDB. Implements JWT-based authentication, protected API routes with TMDB, email verification and password-reset workflows, user management/search functionality, and automated backend testing with Jest and Supertest.
 
 [**CCNA Mega Lab — Enterprise Network Walkthrough**](https://github.com/techtaillefer/My-CCNA-Jeremy-IT-Lab-MEGA-LAB-Walkthrough)  
 Complete Cisco Packet Tracer enterprise network build covering VLANs, 802.1Q trunking, EtherChannel, Rapid PVST+, OSPF, HSRP, DHCP, DNS, NTP, SNMP, Syslog, NAT/PAT, ACLs, IPv6, and wireless networking. Includes step-by-step configurations, verification commands, troubleshooting notes, and security controls such as DHCP Snooping, Dynamic ARP Inspection, and Port Security.  
