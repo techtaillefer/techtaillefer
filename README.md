@@ -36,6 +36,16 @@ Complete Cisco Packet Tracer enterprise network build covering VLANs, 802.1Q tru
 [**LAMP Stack Contact Manager — Aussie Reefs**](https://github.com/luke3ng/COP4331Team14)  
 Full-stack contact management web application built on the LAMP stack with HTML/CSS/JavaScript, PHP, and MySQL. Implements user registration and login, contact search, and per-user contact CRUD functionality through PHP API endpoints, including add, update, retrieve, and delete operations.
 
+### Labbing
+
+**Cloud-based Azure Cyber Range Lab**
+
+A cybersecurity cloud 'Cyber Range' I operated on the Microsoft Azure platform. Performed vulnerability scans, vulnerability assessments, and risk prioritization using Tenable across Windows and Linux systems in an Azure cyber range, reviewing critical, high, and medium findings for remediation. Executed secure configurations and DISA STIG compliance audits with Tenable, applying STIG implementations and PowerShell-based remediations to address vulnerabilities and strengthen system security. Conducted threat hunting with EDR, identifying and investigating Indicators of Compromise (IoCs) associated with brute-force attacks, data exfiltration, ransomware, and other suspicious activity. Used Microsoft Defender for Endpoint to investigate compromised systems, analyze endpoint telemetry, and work with custom detection rules, automated isolation, and incident investigation workflows. Created and analyzed Microsoft Sentinel dashboards to monitor logon failures, malicious traffic, and threat intelligence, while using KQL to query logs across the SIEM and EDR environment. Configured Azure NSG/firewall rules to limit Internet exposure, reduce brute-force attack paths, and practice incident response, threat detection, vulnerability remediation, and system hardening in a cloud environment.
+
+**Personal Homelab**
+
+An ongoing homelab setup via Proxmox for self-hosting and simulating red team and blue team cybersecurity labs via LXC Containers and VMs. Currently deploying a AdGuard Home for DNS filtering, Active Directory on a Windows Server, metasploitable3 lab, VPN, and personal media storage (Immich, Calibre-Web, etc.). The physical set up generally consists of a thinkcentre mini pc, tplink switch, gl inet travel router, and 2 external sandisk HDDs to contribute to 3-2-1 backup set up.
+
 ---
 
 
