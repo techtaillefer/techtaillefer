@@ -149,6 +149,7 @@ An ongoing homelab setup via Proxmox for self-hosting and simulating red team an
 
 - NIST CSF 2.0
 - NIST SP 800-61
+- NIST SP 800-30
 
 </td>
 </tr>
