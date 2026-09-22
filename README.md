@@ -1,4 +1,4 @@
-# Isabella Taillefer | Network and Security Analyst and Engineer
+# Isabella Taillefer | Aspiring Network & Security Analyst and Engineer
 
 
 ![Security Analyst](https://img.shields.io/badge/Focus-IT%20Security%20Analyst%20and%20Engineer-aqua)![Network Security](https://img.shields.io/badge/Focus-Network%20Security-lime)![Blue Team](https://img.shields.io/badge/Focus-Blue%20Team%20Operations-blue)
