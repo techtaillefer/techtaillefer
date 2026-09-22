@@ -219,6 +219,37 @@ $\color{#7E57C2}{\textsf{Cloud Security (Azure):}}$ ![Microsoft Sentinel](https:
 - *Pursuing CompTIA CySA+**
 - *Pursuing Microsoft SC 500**
 
+
+
+## Competitions
+
+- KnightHacks IX (incoming)
+- Horse Plinko x2 (Hack@UCF Blue Teaming Cyber Defense competition)
+- OCPS Central Florida CTF Cyber Challenge
+- National Cyber League (NCL)
+
+
+
+## Key coursework
+
+- Senior Design 1
+- Secure Operating Systems and Administaration
+- Cyber Defense Analysis
+- Analysis of Computer Communication Networks
+- Digtal Forensics
+- Processes for Object-Oriented Software Development (POOSD)
+- Operating Systems
+- System Software
+- Security in Computing
+- Artificial Intelligence
+- Algorithms for Machine Learning
+- Computer Science I-II
+- Calculus I-III
+- Discrete Structures I-II
+- Matrix and Linear Algebra
+- Statistical Methods I
+- Physics using Calculus I-II + Labs
+- _(TryHackMe and HackTheBox)_
 ---
 
 ## Connect
