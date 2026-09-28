@@ -37,7 +37,7 @@ Complete Cisco Packet Tracer enterprise network build covering VLANs, 802.1Q tru
 Full-stack contact management web application built on the LAMP stack with HTML/CSS/JavaScript, PHP, and MySQL. Implements user registration and login, contact search, and per-user contact CRUD functionality through PHP API endpoints, including add, update, retrieve, and delete operations.
 
 $\color{#FFD700}{\textsf{NEW!:}}$ **Autonomous Software Patching and Red-Teaming with Agentic AI** <br>
-Selected participant in a 6-person project for Senior Design Terms Fall 2026-Spring 2027 for Georgia Tech Research. It is an AI "Cyber-Warfare" simulator with a Red Team agent attacking a live app and a Blue Team agent autonomously detecting and patching. 
+Selected participant in a 6-person project for Senior Design Terms Fall 2026-Spring 2027 for Georgia Tech Research. It is an AI "Cyber-Warfare" simulator with a Red Team agent attacking a live app and a Blue Team agent autonomously detecting and patching. My role is to work on the Blue Team agent with the main purpose of being an autonomous software-remediation agent.
 
 
 ### Labbing
