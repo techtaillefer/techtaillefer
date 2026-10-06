@@ -219,7 +219,8 @@ $\color{#7E57C2}{\textsf{Cloud Security (Azure):}}$ ![Microsoft Sentinel](https:
 - Cisco Certified Network Associate (CCNA)
 - CompTIA Network+
 - *Pursuing CompTIA CySA+**
-- *Pursuing Microsoft SC 500**
+- *Pursuing Microsoft AZ 104**
+- *Pursuing AWS SAA**
 
 
 
